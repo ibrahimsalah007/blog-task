@@ -16,7 +16,7 @@ export class TodoService {
     return this.todoModel.create({ ...createTodoDto, user: userId });
   }
 
-  findAll(user?: string) {
+  findAllUserTodos(user: string) {
     return this.todoModel.find({ user }).populate('user');
   }
 
