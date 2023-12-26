@@ -1,0 +1,21 @@
+{
+  "IS_REQUIRED": "{property}: is required",
+  "MIN": "{property}: must be at least  {constraints.0}",
+  "MAX": "{property}: must be at most {constraints.0}",
+  "MIN_LENGTH": "{property}: must be at least {constraints.0} letters",
+  "MAX_LENGTH": "{property}: must be at most atleast {constraints.0} letters",
+  "IS_STRING": "{property}: must be a valid string",
+  "IS_EMAIL": "{property}: must be a valid email",
+  "IS_INT": "{property}: must be an integer",
+  "IS_NUMBER": "{property}: must be a number",
+  "IS_NOT_EMPTY": "{property}: must not be empty",
+  "INVALID_EMAIL": "{property}: is invalid email",
+  "INVALID_PHONE_NUMBER": "{property}: is invalid phone number it has to match format: +966xxxxxxxxx",
+  "IS_STRONG_PASSWORD": "{property}: please enter a strong password",
+  "IS_ENUM": "{property}: must be one of the following values {constraints.1}",
+  "IS_OBJECT": "{property}: must be an object",
+  "IS_LATITUDE": "{property}: Must be a valid latitude",
+  "IS_LONGITUDE": "{property}: must be a valid longitude",
+  "IS_DATE": "{property}: Must be a Date",
+  "IS_MATCH": "{property}: must match property {constraints.0}"
+}

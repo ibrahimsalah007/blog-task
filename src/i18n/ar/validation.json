@@ -1,0 +1,21 @@
+{
+  "IS_REQUIRED": "{property}: مطلوب",
+  "MIN": "{property}: يجب ان يكون علي الاقل {constraints.0}",
+  "MAX": "{property}: يجب ان يكون بحد اقصي {constraints.0}",
+  "MIN_LENGTH": "{property}: يجب ان يكون بحد اقصي {constraints.0} حروف",
+  "MAX_LENGTH": "{property}: يجب ان يكون بحد اقصي {constraints.0} حروف",
+  "IS_STRING": "{property}: يجب ان يكون نص",
+  "IS_INT": "{property}: يجب ان يكون رقم صحيح",
+  "IS_EMAIL": "{property}: يجب ان يكون بريد الكتروني ",
+  "IS_NUMBER": "{property}: يجب ان يكون رقم",
+  "IS_NOT_EMPTY": "{property}: يجب ان لا يكون فارغ",
+  "INVALID_EMAIL": "{property}: يجب ان يكون بريد الكتروني صحيح",
+  "INVALID_PHONE_NUMBER": "{property}: يجب كتابة رقم هاتف صحيح بالشكل الاتي +20xxxxxxxxxx",
+  "STRONG_PASSWORD": "{property}: يجب كتابة كلمة سر قوية",
+  "IS_ENUM": "{property}: يجب ان يكون اختيارك من الاتي {constraints.1}",
+  "IS_OBJECT": "{property}: يجب ان يكون في هيكل مجموعة",
+  "IS_LATITUDE": "{property}: يجب ان يكون من احداثيات خط العرض وان يكون رقم",
+  "IS_LONGITUDE": "{property}: يجب ان يكون من احداثيات خط الطول وان يكون رقم",
+  "IS_DATE": "{property}: يجب ان يكون تاريخ",
+  "IS_MATCH": "{property}:يجب ان يتطابق مع  {constraints.1}"
+}
